@@ -1,5 +1,3 @@
-Here's the README as plain text. Copy this into a file called README.txt (or README.md if you want, just paste the raw text without the fences).
-
 FIREFLIES — AMBIENT PIXEL-ART OVERLAY FOR RAINMETER
 
 A lightweight, wallpaper-adaptive firefly swarm that drifts across your desktop. Six pixel-art fireflies wander in smooth, organic paths, their glow tinted to match the dominant colour of your current wallpaper. No Lua, no external plugins — just Rainmeter's native Shape and Calc meters plus a tiny PowerShell script for colour extraction.
